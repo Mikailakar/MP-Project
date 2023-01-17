@@ -1,2 +1,2 @@
 # MP-Project
-Hastane doktor hasta iletişim mobil uygulaması.
+Sağlık sektörüne yönelik  tele tıp uygulaması.
